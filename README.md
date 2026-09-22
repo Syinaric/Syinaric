@@ -15,7 +15,3 @@ Nanotechnology Engineering student at the **University of Waterloo**, interested
 ## Tools
 
 `SystemVerilog` `Verilog` `cocotb` `Python` `MATLAB/Simulink` `Vivado` `LTSpice` `FPGA (Artix-7)` 
-
-## Contact
-
-[LinkedIn](www.linkedin.com/in/mahir-arora) · [Email](mailto:m59arora@uwaterloo.ca)
