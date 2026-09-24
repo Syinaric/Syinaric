@@ -11,7 +11,7 @@ Nanotechnology Engineering student at the **University of Waterloo**, interested
 - **Systolic Array GEMM Engine**: INT8 CNN inference accelerator in SystemVerilog, verified with cocotb
 - **10G Ethernet PCS**: receiver RTL and verification for UW ASIC
 - **FPGA Projects**: digital design on the Arty A7
-- 
+  
 ## Tools
 
 `SystemVerilog` `Verilog` `cocotb` `Python` `MATLAB/Simulink` `Vivado` `LTSpice` `FPGA (Artix-7)` 
