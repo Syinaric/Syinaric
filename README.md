@@ -2,7 +2,7 @@
 
 Nanotechnology Engineering student at the **University of Waterloo**, interested in digital hardware, ASIC design, and verification.
 
-- ⚡ Electrical Engineering Co-op at **Skyjack** (test benches, automation, SIL testing)
+- ⚡ Electrical Engineering Co-op at **Skyjack** (test benches, automation, HIL testing)
 - 🔬 Verification on the **UW ASIC** team (10G Ethernet PCS)
 - 🎯 Looking for **ASIC design / DV** co-op roles for Winter 2027
 
